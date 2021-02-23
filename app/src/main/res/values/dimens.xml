@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Values applied in the entire app -->
+    <dimen name="side_margin">16dp</dimen>
+
+</resources>

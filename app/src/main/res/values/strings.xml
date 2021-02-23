@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AdriansBriefcase</string>
+    <string name="splash_title">Adrian\'s \n Briefcase</string>
+    <string name="splash_purpose"><b>Made by Adrian Valenzuela</b> \n <i>This App is made solely with the purpose to display the things i know how to do an Android App</i></string>
 </resources>
